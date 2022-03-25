@@ -1,0 +1,15 @@
+C:\Users\forre\repos\LinqEx2\LinqEx2\bin\Debug\net5.0\LinqEx2.exe
+C:\Users\forre\repos\LinqEx2\LinqEx2\bin\Debug\net5.0\LinqEx2.deps.json
+C:\Users\forre\repos\LinqEx2\LinqEx2\bin\Debug\net5.0\LinqEx2.runtimeconfig.json
+C:\Users\forre\repos\LinqEx2\LinqEx2\bin\Debug\net5.0\LinqEx2.runtimeconfig.dev.json
+C:\Users\forre\repos\LinqEx2\LinqEx2\bin\Debug\net5.0\LinqEx2.dll
+C:\Users\forre\repos\LinqEx2\LinqEx2\bin\Debug\net5.0\ref\LinqEx2.dll
+C:\Users\forre\repos\LinqEx2\LinqEx2\bin\Debug\net5.0\LinqEx2.pdb
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\LinqEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\LinqEx2.AssemblyInfoInputs.cache
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\LinqEx2.AssemblyInfo.cs
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\LinqEx2.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\LinqEx2.dll
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\ref\LinqEx2.dll
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\LinqEx2.pdb
+C:\Users\forre\repos\LinqEx2\LinqEx2\obj\Debug\net5.0\LinqEx2.genruntimeconfig.cache
